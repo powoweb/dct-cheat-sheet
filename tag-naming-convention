@@ -1,0 +1,4 @@
+This is a document intended to store the naming convention of the XML tags used in our DCT cheat sheet.
+
+<header> -> stores the content for the header section of an element
+<content> -> stores the main content for the element

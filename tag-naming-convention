@@ -1,5 +1,6 @@
-This is a document intended to store the naming convention of the XML tags used in our DCT cheat sheet.
+This is a document intended to store the naming convention of the XML tags used in our Data Content Template cheat sheet.
 
 <DCT> -> root container that holds all necesary DCT elements.
+<metadata> -> stores metadata of the DCTs, pages or any other files. Metadata is extended depending on the requirements. 
 <header> -> stores the content for the header section of an element.
 <content> -> stores the main content for the element.

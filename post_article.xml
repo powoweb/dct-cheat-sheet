@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<DCT type='post-article'>
+<DCT type='post_article'>
   <header>Insert your header content here.</header>
   <content>Insert your post or article content here.</content>
   <metadata>Insert metadata here, dynamically or manually.</metadata>

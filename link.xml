@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DCT type='list_of_links'>
+	<link_text>Insert link text here.</link_text>
+	<link_url>Insert link URL here.</link_url>
+	<link_target>Insert link target here.</link_target>
+	<metadata>Insert metadata here, dynamically or manually.</metadata>
+</DCT>
